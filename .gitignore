@@ -3,6 +3,7 @@ site
 www
 builder
 jquerytools.github.com
+.idea
 
 # patch
 *.rej
